@@ -1,4 +1,4 @@
-Task 2
+Task 3
 ===
 1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
 ![](calling-contract.png)
